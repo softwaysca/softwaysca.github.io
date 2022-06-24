@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iVinyl® on iVinyl</title>
+    <link>https://ivinylapp.com/</link>
+    <description>Recent content in iVinyl® on iVinyl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ivinylapp.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Softways</title>
+      <link>https://ivinylapp.com/softways/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivinylapp.com/softways/</guid>
+      <description>Steven Pederson, Principal Developer
+Softways™ originated as a San Jose, California based developer and publisher of Macintosh software. Over the years it shifted to developing both Macintosh and Windows software released under the names of other companies. Finally, I headed for the beach: the Pacific Beach community of San Diego, California, where Softways™ remains today.
+Recently, the focus shifted to advanced mobile platforms and I fell in love with iOS as it powers the iPad, iPhone and iPod touch.</description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://ivinylapp.com/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivinylapp.com/support/</guid>
+      <description>Questions? Issues? Suggestions? Love?
+We&amp;rsquo;d love to hear from you at support@iVinylApp.com.</description>
+    </item>
+    
+  </channel>
+</rss>
